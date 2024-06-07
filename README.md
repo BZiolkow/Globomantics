@@ -1,4 +1,4 @@
-#Globomantics
+# Globomantics
 
 Conference web application created with node.js and express course. It has a connection to MongoDB, utilizes passport for signing up users.
 
